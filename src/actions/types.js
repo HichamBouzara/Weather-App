@@ -1,0 +1,9 @@
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const GET_ERRORS = "GET_ERRORS";
+export const CITIES_LOADING = "CITIES_LOADING";
+export const GET_CITIES = "GET_CITIES";
+export const DELETE_CITY = "DELETE_CITY";
+export const EDIT_CITY = "EDIT_LIKE";
+export const ADD_CITY = "ADD_CITY";
+export const GET_WEATHER = "GET_WEATHER";
+export const WEATHER_LOADING = "WEATHER_LOADING";
